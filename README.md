@@ -1,4 +1,7 @@
 # cmpe273-assignment1
+#### Reference
+https://github.com/sithu/cmpe273-spring17/edit/master/assignment1/README.md
+
 #### Goal
 
 The purpose of this assignment is to build a simple [Flask](http://flask.pocoo.org/)  application which reads its configration data from a Github repo. Second, you will learn how to dockerize your application.
